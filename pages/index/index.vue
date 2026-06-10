@@ -2,11 +2,8 @@
 	<view class="content">
 		<image class="logo" src="/static/7c07abbfe4529a0dde571008ded26346.jpg"></image>
 		<view class="text-area">
-<<<<<<< HEAD
 			<text class="title">王家欣是宇宙无敌天下第一\n牛逼哦吴彦锴是大傻瓜</text>
-=======
 			<text class="title">王家欣是大傻子</text>
->>>>>>> c14eca82f86f6ce3b755feb6b53aa09647563bdf
 		</view>
 	</view>
 </template>
