@@ -12,7 +12,7 @@
 	export default {
 		data() {
 			return {
-				title: '不Hello'
+				title: 'Hello'
 			}
 		},
 		onLoad() {
