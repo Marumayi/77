@@ -4,6 +4,7 @@
 		<view class="text-area">
 			<text class="title">王家欣是宇宙无敌天下第一\n牛逼哦吴彦锴是大傻瓜</text>
 			<text class="title">王家欣是大傻子</text>
+			<text class="title">吴彦锴反弹，王家欣大傻子</text>
 		</view>
 	</view>
 </template>
