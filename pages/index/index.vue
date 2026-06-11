@@ -3,10 +3,10 @@
 		<image class="logo" src="/static/7c07abbfe4529a0dde571008ded26346.jpg"></image>
 		<view class="text-area">
 			<text class="title">王家欣是宇宙无敌天下第一\n牛逼哦吴彦锴是大傻瓜</text>
-			<text class="title">王家欣是大傻子</text>
-			<text class="title">王家欣是大馋猪</text>
-			<text class="title">王家欣是大救星！！！！！！！！</text>
-			<text class="title">吴彦锴反弹，王家欣大傻子</text>
+			<text class="title">吴彦锴是大傻子</text>
+			<text class="title">王家欣是大馋猪\n吴彦锴没得吃</text>
+			<text class="title">王家欣是大救星！！！！！！！！\n那当然</text>
+			<text class="title">吴彦锴反弹，吴彦锴大傻子</text>
 		</view>
 	</view>
 </template>
