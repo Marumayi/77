@@ -7,6 +7,7 @@
 			<text class="title">王家欣是大馋猪\n吴彦锴没得吃</text>
 			<text class="title">王家欣是大救星！！！！！！！！\n那当然</text>
 			<text class="title">吴彦锴反弹，吴彦锴大傻子</text>
+			<text class="title">好无聊，不想写作业</text>
 		</view>
 	</view>
 </template>
