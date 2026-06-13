@@ -9,23 +9,17 @@
 			<text class="title">吴彦锴反弹，吴彦锴大傻子</text>
 			<text class="title">好无聊，不想写作业</text>
 		</view>
+		<button class="btn1" @click="uni.navigateTo({
+			url: '/pages/page2/page2',
+			success: res => {},
+			fail: () => {},
+			complete: () => {}
+		});">小惊喜</button>
 	</view>
 </template>
 
 <script>
-	export default {
-		data() {
-			return {
-				title: '不Hello'
-			}
-		},
-		onLoad() {
-
-		},
-		methods: {
-
-		}
-	}
+	
 </script>
 
 <style>
@@ -53,5 +47,10 @@
 	.title {
 		font-size: 36rpx;
 		color: #8f8f94;
+	}
+	.btn1{
+		size: 100rpx;
+		background-color: #aaffff;
+		box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 	}
 </style>

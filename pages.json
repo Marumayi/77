@@ -5,6 +5,12 @@
 			"style": {
 				"navigationBarTitleText": "uni-app"
 			}
+		},
+		{
+			"path": "pages/page2/page2",
+			"style": {
+				"navigationBarTitleText": "惊喜"
+			}
 		}
 	],
 	"globalStyle": {
