@@ -1,11 +1,16 @@
 <template>
 	<view class="content">
 		<image class="logo" src="/static/7c07abbfe4529a0dde571008ded26346.jpg"></image>
-		<view class="miss">
+		<view class="liwo">
 			<text class="longing">
 			王家欣，我真的好喜欢你，不要讨厌我好不好T_T。\n
 			以后还能一起出去玩吗？\n
 			我好想你啊。。
+			</text>
+		</view>
+		<view class="liwo">
+			<text class="longing">
+			王家欣最近都不太想和我说话了，好伤心\n
 			</text>
 		</view>
 		<view class="text-area">
@@ -60,7 +65,7 @@
 		background-color: #aaffff;
 		box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 	}
-	.miss{
+	.liwo{
 		background-color: #aaffff;
 		border-radius: 30rpx;
 		margin: 10rpx;
