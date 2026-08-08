@@ -3,7 +3,9 @@
 		<image class="logo" src="/static/7c07abbfe4529a0dde571008ded26346.jpg"></image>
 		<view class="miss">
 			<text class="longing">
-			王家欣，我真的好喜欢你，不要讨厌我好不好T_T。
+			王家欣，我真的好喜欢你，不要讨厌我好不好T_T。\n
+			以后还能一起出去玩吗？\n
+			我好想你啊。。
 			</text>
 		</view>
 		<view class="text-area">
