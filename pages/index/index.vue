@@ -11,6 +11,10 @@
 		<view class="liwo">
 			<text class="longing">
 			王家欣最近都不太想和我说话了，好伤心\n
+			你连着大半天没理我的时候好难受呀T_T\n
+			我要是惹你讨厌了可以直接和我说嘛\n
+			王家欣最近怎么和变了个人一样\n
+			好难过，被王家欣讨厌了
 			</text>
 		</view>
 		<view class="text-area">
