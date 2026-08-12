@@ -17,6 +17,11 @@
 			好难过，被王家欣讨厌了
 			</text>
 		</view>
+		<view class="liwo">
+			<text class="longing">
+			刚推送完今天的自己小游戏的代码，有点想你啦
+			</text>
+		</view>
 		<view class="text-area">
 			<text class="title">王家欣是宇宙无敌天下第一\n牛逼哦吴彦锴是大傻瓜</text>
 			<text class="title">吴彦锴是大傻子</text>
