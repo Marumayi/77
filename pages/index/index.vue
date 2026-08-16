@@ -20,6 +20,7 @@
 		<view class="liwo">
 			<text class="longing">
 			刚推送完今天的自己小游戏的代码，有点想你啦
+			今天也好想你哇，好想好想
 			</text>
 		</view>
 		<view class="text-area">
